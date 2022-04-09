@@ -13,7 +13,6 @@ function Skills() {
           <a href="https://www.postgresql.org/"><img id="tech-icon9" className="tech-icon" src="/portfolio/images/pg.png" alt="PostgreSQL icon" title="PostgreSQL"/></a>
           <a href="https://redis.io/"><img id="tech-icon10" className="tech-icon" src="/portfolio/images/redis.png" alt="Redis icon" title="Redis"/></a>
           <a href="https://github.com/"><img id="tech-icon11" className="tech-icon" src="/portfolio/images/github.png" alt="Github icon" title="Github"/></a>
-          <a href="https://stripe.com/docs/api"><img id="tech-icon12" className="tech-icon" src="/portfolio/images/stripe.png" alt="Stripe API icon" title="Stripe API"/></a>
       </div>
     );
   }

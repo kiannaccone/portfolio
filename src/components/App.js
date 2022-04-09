@@ -1,13 +1,14 @@
 import '../resources/App.css';
+import About from './About';
 
 
 function App() {
   return (
     <div>
-      {/* <Nav /> */}
-      {/* <Welcome />
       <About />
-      <Contact /> */}
+      {/* <Nav />  */}
+      {/* <Welcome /> */}
+      {/* <Contact /> */}
 
     </div>
   );

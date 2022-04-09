@@ -1,16 +1,16 @@
-import Skills from "./Skills";
+// import Skills from "./Skills";
 
 function About() {
     return (
       <div id="about">
         <h2>About</h2>
 
-        <img src="src/images/headshot.png" alt="Katherine Iannaccone" className="headshot"/>
+        <img src="/images/headshot.jpg" alt="Katherine Iannaccone" className="headshot"/>
 
-        <p></p>
-        <Skills />
+        <p>my description</p>
+        {/* <Skills /> */}
       </div>
     );
   }
   
-  export default About;
+export default About;
