@@ -1,4 +1,4 @@
-// import Skills from "./Skills";
+import Tech from "./Tech";
 
 function About() {
     return (
@@ -8,7 +8,7 @@ function About() {
         <img src="/images/headshot.jpg" alt="Katherine Iannaccone" className="headshot"/>
 
         <p>my description</p>
-        {/* <Skills /> */}
+        <Tech />
       </div>
     );
   }
