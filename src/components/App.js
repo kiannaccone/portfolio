@@ -1,5 +1,6 @@
 import '../resources/App.css';
 import About from './About';
+import Contact from './Contact';
 
 
 function App() {
@@ -8,7 +9,7 @@ function App() {
       <About />
       {/* <Nav />  */}
       {/* <Welcome /> */}
-      {/* <Contact /> */}
+      <Contact />
 
     </div>
   );
