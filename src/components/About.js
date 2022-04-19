@@ -7,7 +7,7 @@ function About() {
 
         <img src="/images/headshot.jpg" alt="Katherine Iannaccone" className="headshot"/>
 
-        <p>my description</p>
+        <p>Hi my name is Katherine</p>
         <Tech />
       </div>
     );

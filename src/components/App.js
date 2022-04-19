@@ -2,6 +2,7 @@ import '../resources/App.css';
 import About from './About';
 import Contact from './Contact';
 import Welcome from './Welcome';
+import Projects from './Projects'
 
 
 function App() {
@@ -10,8 +11,7 @@ function App() {
       <Welcome />
       <Contact />
       <About />
-      {/* <Nav />  */}
-
+      <Projects /> 
     </div>
   );
 }

@@ -1,7 +1,7 @@
 
 function Tech() {
     return (
-      <div className="flex-row flex-wrap" id="tech-stack">
+      <div className="tech-row" id="tech-stack">
           <a href="https://www.ruby-lang.org/" target="_blank"><img id="tech-icon1" className="tech-icon" src="/images/ruby.png" alt="Ruby icon" title="Ruby"/></a>
           <a href="https://rubyonrails.org/" target="_blank"><img id="tech-icon2" className="tech-icon" src="/images/rails.png" alt="Rails icon" title="Rails"/></a>
           <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"><img id="tech-icon3" className="tech-icon" src="/images/javascript.png" alt="JavaScript icon" title="JavaScript"/></a>

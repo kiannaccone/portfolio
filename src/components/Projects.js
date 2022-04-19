@@ -2,9 +2,8 @@
 function Projects () {
     return (
         <div>
-
+            <h1>Projects</h1>
         </div>
     )
 }
-
-export defult Projects;
+export default Projects;
