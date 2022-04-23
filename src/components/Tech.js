@@ -10,7 +10,6 @@ function Tech() {
           <a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML" target="_blank"><img id="tech-icon6" className="tech-icon" src="/images/html.png" alt="HTML icon" title="HTML"/></a>
           <a href="https://www.heroku.com/" target="_blank"><img id="tech-icon7" className="tech-icon" src="/images/heroku.webp" alt="Heroku icon" title="Heroku"/></a>
           <a href="https://github.com/" target="_blank"><img id="tech-icon8" className="tech-icon" src="/images/github.png" alt="Github icon" title="Github"/></a>
-          <a href="https://git-scm.com/" target="_blank"><img id="tech-icon9" className="tech-icon" src="/images/git.png" alt="Git icon" title="Git"/></a>
       </div>
     );
 }
